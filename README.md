@@ -8,6 +8,22 @@ This exploratory data analysis (EDA) was conducted in three main stages:
 2. Summarization and visualization of key variables to identify trends and patterns for further analysis.
 3. Temporal pattern analysis to explore accident distribution across different hours, days, and months (time series analysis).
 
+## Summary of Key Insights
+1. Accidents are more frequent in densely populated districts such as Puente de Vallecas and Salamanca.
+
+2. Most accidents involve private cars and motorcycles, with frontal-lateral and rear-end collisions being the most common types.
+
+3. Weather conditions do not significantly influence accident occurrence, as most accidents happen under clear weather.
+
+4. The majority of victims are men aged 25-49 years old.
+
+5. Alcohol and drugs do not appear to be strongly associated with recorded accidents, based on available data.
+
+6. Traffic accidents peak in the evening hours (18:00-19:00), especially on Fridays.
+
+7. COVID-19 lockdowns had a clear impact on accident trends in 2020, with a gradual recovery in subsequent years.
+
+
 ## Key Findings
 ### General Trends
 Districts with the Highest Number of Traffic Accidents:
